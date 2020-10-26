@@ -7,3 +7,7 @@ spring:
 
     hikari:
       connection-timeout: 30000 #超时时间
+      minimum-idle: 5 #最小连接数
+      maximum-pool-size: 20 #最大连接数
+      auto-commit: true #自动提交
+      idle-timeout: 600000 #链接超时的最大时长，超时则被释放，默认10分子

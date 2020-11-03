@@ -1,6 +1,6 @@
 package com.spacex.pojo;
 
-import javax.persistence.*;
+import javax.persistence.Id;
 
 public class T {
     @Id

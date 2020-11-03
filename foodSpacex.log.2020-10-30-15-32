@@ -1,0 +1,2 @@
+2020-10-30 15:32:44 INFO  ServiceLogAspect:33 - ==== 开始执行class com.spacex.service.impl.UserServiceImpl>queryUserForLogin ====
+2020-10-30 15:32:44 INFO  CookieUtils:211 - ========== domainName: localhost ==========
